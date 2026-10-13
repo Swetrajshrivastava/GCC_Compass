@@ -1,0 +1,13 @@
+company,sector,city,signal,evidence_status,source_url
+Microsoft,Technology,Hyderabad,Expansion / hiring signal,Needs review,https://www.microsoft.com/en-in
+JPMorgan Chase,Financial services,Bengaluru,GCC ecosystem presence,Needs review,https://www.jpmorganchase.com
+Walmart Global Tech,Retail technology,Bengaluru,GCC ecosystem presence,Needs review,https://tech.walmart.com
+Bosch Global Software Technologies,Engineering & manufacturing,Bengaluru,Engineering hub presence,Needs review,https://www.bosch.in
+PepsiCo,Consumer goods,Hyderabad,GCC / capability hub research lead,Needs review,https://www.pepsico.com
+HSBC,Financial services,Pune,GCC ecosystem presence,Needs review,https://www.hsbc.com
+Example Fintech Co.,Financial services,Pune,Illustrative sample record,Illustrative,
+Example HealthTech Co.,Healthcare,Chennai,Illustrative sample record,Illustrative,
+Accenture,Technology consulting,To verify,India operations research lead; verify GCC scope and location,Needs review,https://www.accenture.com/in-en
+Google,Technology,To verify,India operations research lead; verify GCC scope and location,Needs review,https://about.google/intl/ALL_in/
+Amazon,Retail technology,To verify,India operations research lead; verify GCC scope and location,Needs review,https://www.aboutamazon.in/
+Siemens,Engineering & manufacturing,To verify,India operations research lead; verify GCC scope and location,Needs review,https://www.siemens.com/in/en.html

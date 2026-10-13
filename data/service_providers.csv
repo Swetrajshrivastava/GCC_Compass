@@ -1,0 +1,12 @@
+provider,service_line,coverage,description,evidence_status,last_checked,source_url
+Example Legal & Entity Setup,Legal / entity setup,Pan-India,Illustrative profile. Replace with verified provider evidence before use.,Illustrative,Not checked,
+Example Talent Partner,Recruiting,Bengaluru; Hyderabad; Pune,Illustrative profile. Request named GCC references and measurable outcomes.,Illustrative,Not checked,
+Example Payroll / EOR,Payroll / EOR,Pan-India,"Illustrative profile. Validate coverage, compliance model and customer references.",Illustrative,Not checked,
+Example Workplace Advisory,Real estate,Major metros,"Illustrative profile. Validate transactions, submarket expertise and client references.",Illustrative,Not checked,
+TeamLease Services,Recruiting,India,"Its public site describes staffing and workforce services; GCC delivery references and outcomes have not been independently verified.",Needs review,2026-10-11,https://www.teamlease.com/
+Randstad India,Recruiting,India,"Its India site describes recruitment services; GCC-specific delivery references and outcomes have not been independently verified.",Needs review,2026-10-11,https://www.randstad.in/
+JLL India,Real estate,India,"Its India site describes commercial real-estate services; GCC transaction references and outcomes have not been independently verified.",Needs review,2026-10-11,https://www.jll.co.in/
+Cushman & Wakefield India,Real estate,India,"Its India site describes commercial real-estate services; GCC transaction references and outcomes have not been independently verified.",Needs review,2026-10-11,https://www.cushmanwakefield.com/en/india
+Deel,Payroll / EOR,India,"Its India page describes EOR and payroll services; GCC-specific delivery references and outcomes have not been independently verified.",Needs review,2026-10-11,https://www.deel.com/hiring/employees/india/
+Remote,Payroll / EOR,India,"Its India page describes EOR and payroll services; GCC-specific delivery references and outcomes have not been independently verified.",Needs review,2026-10-11,https://remote.com/country-explorer/india
+Inductus GCC,Legal / entity setup,India,"Its public site positions the company as a GCC setup/enabling provider; client references and delivery outcomes require independent validation.",Needs review,2026-10-11,https://inductusgcc.com/
